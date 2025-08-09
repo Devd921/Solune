@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--es-ES-->
+<resources>
+    <string name="app_name">Solune</string>
+    
+    <string name="alarm">Alarma</string>
+<!--<string name="ambiance">Ambiente</string>-->
+    <string name="timer">Temporizador</string>
+    <string name="settings">Ajustes</string>
+
+    <string name="selected">seleccionado</string>
+    
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    
+    <string name="every_day">Cada día</string>
+    
+    <string name="today">Hoy</string>
+    <string name="tomorrow">Mañana</string>
+    <string name="every">Cada</string>
+    
+    <string name="monday">Lun</string>
+    <string name="tuesday">Mar</string>
+    <string name="wednesday">Mié</string>
+    <string name="thursday">Jue</string>
+    <string name="friday">Vie</string>
+    <string name="saturday">Sáb</string>
+    <string name="sunday">Dom</string>
+    
+    <string name="january">Ene</string>
+    <string name="february">Feb</string>
+    <string name="march">Mar</string>
+    <string name="april">Abr</string>
+    <string name="may">May</string>
+    <string name="june">Jun</string>
+    <string name="july">Jul</string>
+    <string name="august">Ago</string>
+    <string name="september">Sept</string>
+    <string name="october">Oct</string>
+    <string name="november">Nov</string>
+    <string name="december">Dic</string>
+    
+    <string name="alarm_sound">Sonido de alarma</string>
+    <string name="vibration">Vibración</string>
+    
+    <string name="short">Short</string>
+    <string name="medium">Medium</string>
+    <string name="long">Long</string>
+    
+    <string name="raining"></string>
+    <string name="soft_wind"></string>
+    <string name="thunder"></string>
+    <string name="cat_purring"></string>
+    <string name="library"></string>
+    <string name="coffee"></string>
+    <string name="forest"></string>
+    <string name="water_stream"></string>
+    <string name="seaside"></string>
+    <string name="campfire"></string>
+    <string name="white_noise"></string>
+    <string name="brownien_noise"></string>
+    <string name="pink_noise"></string>
+    
+    <string name="weather">Tiempo</string>
+    <string name="animals"></string>
+    <string name="indoor_places"></string>
+    <string name="outdoor_places"></string>
+    
+    <string name="add_ambiance"></string>
+    <string name="preset_name"></string>
+    <string name="saved_presets"></string>
+    
+    <string name="hours">Horas</string>
+    <string name="minutes">Minutos</string>
+    <string name="seconds">Segundos</string>
+    <string name="start">Iniciar</string>
+    <string name="delete">Eliminar</string>
+    <string name="pause">Pausa</string>
+    
+    <string name="app_language"></string>
+    <string name="permissions">Permisos</string>
+    <string name="support_me_with_a_donation"></string> 
+</resources>
