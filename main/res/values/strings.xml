@@ -4,43 +4,30 @@
     <string name="app_name">Solune</string>
 
     <string name="title_alarm">Alarm</string>
-    <string name="title_ambiance">Ambiance</string>
+    <string name="title_library">Library</string>
     <string name="title_timer">Timer</string>
-    <string name="settings">Settings</string>
+    <string name="title_settings">Settings</string>
 
     <string name="selected">selected</string>
+
+    <string name="no_alarms">No alarms</string>
+    <string name="no_presets">No presets</string>
     
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
     
     <string name="every_day">Every day</string>
-    
-    <string name="today">Today</string>
-    <string name="tomorrow">Tomorrow</string>
-    <string name="every">Every</string>
-    
-    <string name="monday">Mon</string>
-    <string name="tuesday">Tue</string>
-    <string name="wednesday">Wed</string>
-    <string name="thursday">Thu</string>
-    <string name="friday">Fri</string>
-    <string name="saturday">Sat</string>
-    <string name="sunday">Sun</string>
-    
-    <string name="january">Jan</string>
-    <string name="february">Feb</string>
-    <string name="march">Mar</string>
-    <string name="april">Apr</string>
-    <string name="may">May</string>
-    <string name="june">Jun</string>
-    <string name="july">Jul</string>
-    <string name="august">Aug</string>
-    <string name="september">Sep</string>
-    <string name="october">Oct</string>
-    <string name="november">Nov</string>
-    <string name="december">Dec</string>
-    
+
+    <string name="Mon">M</string>
+    <string name="Tue">T</string>
+    <string name="Wed">W</string>
+    <string name="Thu">T</string>
+    <string name="Fri">F</string>
+    <string name="Sat">S</string>
+    <string name="Sun">S</string>
+
     <string name="alarm_sound">Alarm sound</string>
+    <string name="description_alarm_sound">No presets</string>
     <string name="vibration">Vibration</string>
     
     <string name="raining">Raining</string>
@@ -61,19 +48,30 @@
     <string name="animals">Animals</string>
     <string name="indoor_places">Indoor places</string>
     <string name="outdoor_places">Outdoor places</string>
-    
-    <string name="add_ambiance">Add ambiance</string>
-    <string name="preset_name">preset name</string>
-    <string name="saved_presets">saved presets</string>
+    <string name="noise">Noise</string>
+
+    <string name="playback">Playback</string>
+    <string name="presets">Presets</string>
+    <string name="others">Others</string>
+
+    <string name="add_preset">Add preset</string>
+    <string name="preset_name">Preset name</string>
+
+    <string name="saved_presets">Saved presets</string>
     
     <string name="hours">Hours</string>
     <string name="minutes">Minutes</string>
     <string name="seconds">Seconds</string>
     <string name="start">Start</string>
-    <string name="delete">Delete</string>
-    <string name="pause">Pause</string>
-    
-    <string name="app_language">App language</string>
-    <string name="permissions">Permissions</string>
-    <string name="support_me_with_a_donation">Support me with a donation</string> 
+    <string name="reset">Reset</string>
+
+    <string name="audio_focus">Ignore audio focus changes</string>
+    <string name="description_audio_focus">Pause Solune when other apps are playing audio</string>>
+    <string name="export_file">Export to a file</string>
+    <string name="description_export_file">Save a copy of your current presets to an external file</string>
+    <string name="import_file">Import from a file</string>
+    <string name="description_import_file">Importing presets from an external file will replace all existing presets.</string>
+    <string name="give_rate">Give a rate on Play Store</string>
+    <string name="support_work">Support my work</string>
+    <string name="description_support_work">Support me with a donation 1€</string>
 </resources>
